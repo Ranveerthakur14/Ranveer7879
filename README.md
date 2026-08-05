@@ -62,6 +62,9 @@
 - **Tech:** Java, Spring Boot, MySQL
 - **Features:** Live price updates, Portfolio management,stock managment
 
+live Demo
+https://stock-trading-app-1tvz.onrender.com
+
 ### 🧺 [Laundry Booking System](https://github.com/Ranveer7879/laundry-booking-backend)
 > Complete laundry service booking website
 - **Tech:** Frontend =Html,Css,JavaSCript & Backend= Flask
