@@ -49,18 +49,17 @@
 
 ## 📊 GitHub Stats
 
-<h4 align="center">👨‍💻 Ranveer Singh Thakur</h4>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer7879&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranveer7879&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer7879&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Ranveer7879&theme=github-dark-blue&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer7879&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer7879&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="42%" />
 </p>
+## 📈 Activity Graph
 
----
+![Activity Graph]((https://github.com/Ranveer7879/leetcode-solutions)
 
 ## 🏆 Featured Projects
 
@@ -113,12 +112,6 @@ https://laundry-booking.netlify.app/
 - ☕ Java Solutions
 - 📚 Problem-solving
 - 🔥 Consistent GitHub activity
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph]((https://github.com/Ranveer7879/leetcode-solutions)
 
 ---
 
