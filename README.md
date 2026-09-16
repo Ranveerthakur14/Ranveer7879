@@ -118,7 +118,7 @@ https://laundry-booking.netlify.app/
 
 ## 📈 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ranveer7879&theme=react-dark&hide_border=true)
+![Activity Graph]((https://github.com/Ranveer7879/leetcode-solutions)
 
 ---
 
